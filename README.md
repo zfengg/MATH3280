@@ -1,6 +1,4 @@
-# MATH3280 2021Fall
-
-## General information
+# MATH3280 21Fall
 
 ## Tutorials
 | note | notebook | on Binder |

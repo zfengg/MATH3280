@@ -34,8 +34,8 @@ TableOfContents()
 
 # ╔═╡ 165bb169-1f08-4f53-a9c1-bf46c3935aab
 md"""
-## A counting example
-Let `` k \geq 2 `` a integer and ``t = (t_1, \ldots, t_k) `` be a vector of non-negative integers.
+## A continuation of Example 5
+Let `` k \geq 2 `` an integer and ``t = (t_1, \ldots, t_k) `` be a vector of non-negative integers.
 
 For each ``0 \leq s \leq (t_1 + \cdots + t_k)``, how many vectors ``(n_1, \ldots, n_k)`` are there such that
 ```math
@@ -44,17 +44,17 @@ n_1 + \cdots + n_k = s \\
 0 \leq n_i \leq t_i \,\quad, \forall\, 1 \leq i \leq k
 \end{cases} \qquad ? 
 ```
-We denote the total number of such vectors by ``N_{t}(s)`` as a function depending on the treshold ``t`` and the target sum ``s``.
+We denote the total number of such vectors by ``N_{t}(s)`` as a function of the target sum ``s`` depending on the treshold vector ``t``.
 """
 
 # ╔═╡ 346f3ffb-03dc-46db-8ea6-376eea27d8ed
 md"""
 **A theoretical formula:**
-For ``0 \leq i \leq k``, define
+For ``0 \leq i \leq k``, define the multisets (i.e., allowing repeating elements)
 ```math
-	T_i := \Big \{ t\cdot b\, \colon b\in \{0,1\}^{k} \mbox{ and } \|b \|_1 = i \Big\},
+	T_i := \Big \{ t\cdot b\, \,\colon b=(b_1, \ldots, b_k)\in \{0,1\}^{k} \mbox{ and } b_1 + \cdots + b_k = i \Big\},
 ```
-then
+where ``\cdot`` denotes the standard inner product, then
 ```math
  N_{t}(s) = \sum_{i=0}^{k} (-1)^{i} \sum_{x\in T_i} 
 \begin{pmatrix}

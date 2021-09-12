@@ -27,3 +27,9 @@ function count_partition(numCardPerColor, numColors)
 end
 
 countTargets, allTargets = count_partition(numCardPerColor, numColors)
+
+# formula results in Example 3(c)
+probUnionC = binomial(4, 1) * binomial(39, 13) // binomial(52, 13) 
+			- binomial(4, 2) * binomial(39, 26) // binomial(52, 26) 
+			+ binomial(4, 3) * binomial(39, 39) // binomial(52, 39) 
+probAsLeast1Heart = 1 - probUnionC # 316451606//333515525 = 0.9488362078496946..

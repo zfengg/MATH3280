@@ -9,3 +9,5 @@
 | [T3.pdf](./tutorials/T3/T3.pdf) | |
 | [T4.pdf](./tutorials/T4/T4.pdf) | |
 | [T5.pdf](./tutorials/T5/T5.pdf) | |
+| [T6.pdf](./tutorials/T6/T6.pdf) | |
+| [T7.pdf](./tutorials/T7/T7.pdf) | |

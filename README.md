@@ -11,3 +11,6 @@
 | [T5.pdf](./tutorials/T5/T5.pdf) | |
 | [T6.pdf](./tutorials/T6/T6.pdf) | |
 | [T7.pdf](./tutorials/T7/T7.pdf) | |
+
+## Solutions
+- [S2.pdf](./solutions/S2.pdf)

@@ -16,6 +16,7 @@
 | [T10.pdf](./tutorials/T10/T10.pdf) | |
 | [T11.pdf](./tutorials/T11/T11.pdf) | |
 | [T12.pdf](./tutorials/T12/T12.pdf) | |
+| [T13.pdf](./tutorials/T13/T13.pdf) | |
 
 ## Solutions
 - [S2.pdf](./solutions/S2.pdf)

@@ -104,7 +104,7 @@ md"""
 # ╔═╡ 0fba82bf-2cc4-4634-84b9-3e65270417ba
 md"""
 ``Bin(n,p)`` with
-``n = `` $(@bind bn Slider(1:1:nMax; default = 10, show_value=true))
+``n = `` $(@bind bn Slider(1:1:nMax; default = 200000, show_value=true))
 ``\quad``
 ``p = `` $(@bind bp Slider(0.01:0.01:1; show_value=true))
 

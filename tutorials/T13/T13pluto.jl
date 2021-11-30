@@ -19,11 +19,11 @@ begin
 	# import Pkg
 	# Pkg.activate(mktempdir())
 	# Pkg.add(["PlutoUI", "Plots", "Distributions", "LaTeXStrings"])
-	
+
+	using LinearAlgebra: dot
 	using PlutoUI
 	using LaTeXStrings
 	using Distributions
-	using LinearAlgebra: dot
 	using Plots
 end
 

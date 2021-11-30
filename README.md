@@ -16,7 +16,7 @@
 | [T10.pdf](./tutorials/T10/T10.pdf) | |
 | [T11.pdf](./tutorials/T11/T11.pdf) | |
 | [T12.pdf](./tutorials/T12/T12.pdf) | |
-| [T13.pdf](./tutorials/T13/T13.pdf) | T13pluto{[.pdf](./tutorials/T13/T13pluto.pdf), [.pdf](./tutorials/T13/T13pluto.pdf), [binder](https://binder.plutojl.org/v0.17.1/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fzfengg%252Fmath3280%252F21Fall%252Ftutorials%252FT13%252FT13pluto.jl) } |
+| [T13.jl](./tutorials/T13/T13.pdf) | T13pluto{[.jl](./tutorials/T13/T13pluto.jl), [.pdf](./tutorials/T13/T13pluto.pdf), [binder](https://binder.plutojl.org/v0.17.1/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fzfengg%252Fmath3280%252F21Fall%252Ftutorials%252FT13%252FT13pluto.jl) } |
 
 ## Solutions
 - [S2.pdf](./solutions/S2.pdf)

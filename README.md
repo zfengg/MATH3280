@@ -1,22 +1,37 @@
 # MATH3280 21Fall
-[Coursepage](https://www.math.cuhk.edu.hk/~math3280/)
+[Coursepage](https://www.math.cuhk.edu.hk/course/2223/math3280a)
 
 ## Tutorials
-| notes | notebooks/scripts |
-| :---: | :--: |
-| [T1.pdf](./tutorials/T1/T1.pdf) | T1_pluto{[.jl](./tutorials/T1/T1_pluto.jl), [.pdf](./tutorials/T1/T1_pluto.pdf), [binder](https://binder.plutojl.org/v0.15.1/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fzfengg%252Fmath3280%252F21Fall%252Ftutorials%252FT1%252FT1_pluto.jl)}|
-| [T2.pdf](./tutorials/T2/T2.pdf) | T2[.jl](./tutorials/T2/T2.jl)|
-| [T3.pdf](./tutorials/T3/T3.pdf) | |
-| [T4.pdf](./tutorials/T4/T4.pdf) | |
-| [T5.pdf](./tutorials/T5/T5.pdf) | |
-| [T6.pdf](./tutorials/T6/T6.pdf) | |
-| [T7.pdf](./tutorials/T7/T7.pdf) | |
-| [T8.pdf](./tutorials/T8/T8.pdf) | |
-| [T9.pdf](./tutorials/T9/T9.pdf) | |
-| [T10.pdf](./tutorials/T10/T10.pdf) | |
-| [T11.pdf](./tutorials/T11/T11.pdf) | |
-| [T12.pdf](./tutorials/T12/T12.pdf) | |
-| [T13.pdf](./tutorials/T13/T13.pdf) | T13pluto{[.jl](./tutorials/T13/T13pluto.jl), [.pdf](./tutorials/T13/T13pluto.pdf), [binder](https://binder.plutojl.org/v0.17.1/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fzfengg%252Fmath3280%252F21Fall%252Ftutorials%252FT13%252FT13pluto.jl) } |
+| Tutorial Note |
+| :---: |
+| [T1.pdf](./tutorials/T1.pdf) |
+| [T2.pdf](./tutorials/T2.pdf) |
+| [T3.pdf](./tutorials/T3.pdf) |
+| [T4.pdf](./tutorials/T4.pdf) |
+| [T5.pdf](./tutorials/T5.pdf) |
+| [T6.pdf](./tutorials/T6.pdf) |
+| [T7.pdf](./tutorials/T7.pdf) |
+| [T8.pdf](./tutorials/T8.pdf) |
+| [T9.pdf](./tutorials/T9.pdf) |
+| [T10.pdf](./tutorials/T10.pdf) |
+| [T11.pdf](./tutorials/T11.pdf) |
+| [T12.pdf](./tutorials/T12.pdf) |
+| [T13.pdf](./tutorials/T13.pdf) |
 
-## Solutions
-- [S2.pdf](./solutions/S2.pdf)
+## Homeworks and Solutions
+| Homework | Solution |
+| :---: | :---: |
+| [HW1.pdf](./homeworks/HW1.pdf) | [S1.pdf](./homeworks/S1.pdf |
+| [HW2.pdf](./homeworks/HW2.pdf) | [S2.pdf](./homeworks/S2.pdf |
+| [HW3.pdf](./homeworks/HW3.pdf) | [S3.pdf](./homeworks/S3.pdf |
+| [HW4.pdf](./homeworks/HW4.pdf) | [S4.pdf](./homeworks/S4.pdf |
+| [HW5.pdf](./homeworks/HW5.pdf) | [S5.pdf](./homeworks/S5.pdf |
+| [HW6.pdf](./homeworks/HW6.pdf) | [S6.pdf](./homeworks/S6.pdf |
+| [HW7.pdf](./homeworks/HW7.pdf) | [S7.pdf](./homeworks/S7.pdf |
+
+## Exams
+| Midterm | Final |
+| :---: | :---: |
+| [SolnMidterm3280.pdf](./Exams/SolnMidterm3280.pdf | [SolnFinal3280.pdf](./Exams/SolnFinal3280.pdf |
+
+

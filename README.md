@@ -32,6 +32,5 @@
 ## Exams
 | Midterm | Final |
 | :---: | :---: |
-| [SolnMidterm3280.pdf](./Exams/SolnMidterm3280.pdf) | [SolnFinal3280.pdf](./Exams/SolnFinal3280.pdf) |
-
+| [SolnMidterm3280.pdf](./exams/SolnMidterm3280.pdf) | [SolnFinal3280.pdf](./exams/SolnFinal3280.pdf) |
 

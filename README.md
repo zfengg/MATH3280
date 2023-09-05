@@ -1,4 +1,4 @@
-# MATH3280
+# MATH3280 Introductory Probability
 [Coursepage](https://www.math.cuhk.edu.hk/course/2223/math3280a)
 
 ## Tutorials

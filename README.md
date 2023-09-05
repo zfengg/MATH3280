@@ -1,4 +1,4 @@
-# MATH3280 21Fall
+# MATH3280
 [Coursepage](https://www.math.cuhk.edu.hk/course/2223/math3280a)
 
 ## Tutorials
